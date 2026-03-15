@@ -4,6 +4,13 @@ A smart AI assistant that helps students plan their weekly schedule by combining
 
 ---
 
+## Demo & Live App
+
+- **YouTube Demo:** [Watch the demo](https://youtu.be/r-CrsNzbWqg?si=cco4NT9bNsEW2hex)  
+- **Deployed App:** [Try it online](https://student-life-manager-557852686915.us-central1.run.app)
+
+---
+
 ## System Architecture (A2A Flow)
 
 The system follows an **Agent-to-Agent (A2A) orchestration** model:
